@@ -1,0 +1,21 @@
+symbol,company_name,industry,sub_industry,sector,eps_estimate,revenue_estimate,eps_growth,revenue_growth,total_dividends,avg_yield_dividends
+ADRO.JK,Adaro Energy Indonesia Tbk,Coal,Coal Production,Energy,586.45,87060000000000,-0.286889485593089,-0.137654095003618,209.31,0.119638402014971
+AMRT.JK,PT Sumber Alfaria Trijaya Tbk.,Food & Staples Retailing,Supermarkets & Convenience Store,Consumer Non-Cyclicals,114.04,130120000000000,,0.216703779466998,28.68,0.010955600393936
+ANTM.JK,Aneka Tambang Tbk.,Metals & Minerals,Diversified Metals & Minerals,Basic Materials,131.26,54340000000000,0.0248995764604068,0.323825921227778,128.071,0.0168035053648055
+ASII.JK,Astra International Tbk,Multi-sector Holdings,Multi-sector Holdings,Industrials,766.51,321160000000000,-0.0829696138966411,0.0145151864545986,519.0,0.0477199396118522
+BBCA.JK,PT Bank Central Asia Tbk.,Banks,Banks,Financials,481.71,118230000000000,0.220886003701389,0.16008820869978,277.5,0.0180478557478637
+BBNI.JK,PT Bank Negara Indonesia (Persero) Tbk,Banks,Banks,Financials,675.27,70890000000000,0.203205669222503,0.1511192389681,280.495,0.0517167726531625
+BBRI.JK,PT Bank Rakyat Indonesia (Persero) Tbk,Banks,Banks,Financials,443.55,214380000000000,0.113783938796636,0.287753243796539,319.0,0.0377051925286651
+BMRI.JK,PT Bank Mandiri (Persero) Tbk,Banks,Banks,Financials,673.5,163850000000000,0.141662417004036,0.329567882404821,353.958,0.043529000878334
+BRPT.JK,Barito Pacific Tbk,Chemicals,Basic Chemicals,Basic Materials,20.53,44180000000000,3.74819268529799,0.033255575279192,0.873,0.00162478843703866
+ICBP.JK,Indofood CBP Sukses Makmur Tbk,Processed Foods,Processed Foods,Consumer Non-Cyclicals,908.29,78010000000000,0.515239977655177,0.14872792996709,200.0,0.020191665738821
+INDF.JK,Indofood Sukses Makmur Tbk,Processed Foods,Processed Foods,Consumer Non-Cyclicals,1310.0,122310000000000,0.411848765174108,0.0949511739598105,267.0,0.0375457212328911
+INKP.JK,Indah Kiat Pulp & Paper Tbk,Forestry & Paper,Paper,Basic Materials,1580.0,63550000000000,0.356251803737734,0.179251651423093,50.0,0.00714391646906734
+ITMG.JK,Indo Tambangraya Megah Tbk,Coal,Coal Production,Energy,4800.0,33220000000000,-0.300188529210011,-0.0967480541166093,2975.0,0.171983457170427
+KLBF.JK,Kalbe Farma Tbk,Pharmaceuticals,Pharmaceuticals,Healthcare,76.69,35049999999999,0.282135272639859,0.151100057908147,31.0,0.0186878567561507
+PTBA.JK,Bukit Asam Tbk,Coal,Coal Production,Energy,419.76,37400000000000,-0.210287450451537,-0.028290440453859,397.712,0.164905314147472
+SMGR.JK,Semen Indonesia (Persero) Tbk,Construction Materials,Construction Materials,Basic Materials,348.04,40550000000000,0.0826119871471568,0.0491222042380915,84.7278,0.0204733341000974
+TLKM.JK,PT Telkom Indonesia (Persero) Tbk,Telecommunication Service,Integrated Telecommunication Service,Infrastructures,0.0,0,0.0,0.0,178.504,0.037667010165751
+TPIA.JK,PT Chandra Asri Pacific Tbk,Chemicals,Basic Chemicals,Basic Materials,-6.98,35070000000000,0.0467267883409738,0.0481979382461681,5.5764,0.00320478362264112
+UNTR.JK,United Tractors Tbk,Machinery,Construction Machinery & Heavy Vehicles,Industrials,0.0,0,0.0,0.0,2236.0,0.0932280221953988
+UNVR.JK,Unilever Indonesia Tbk,Personal Care Products,Personal Care Products,Consumer Non-Cyclicals,126.71,38450000000000,0.00688333223756844,-0.00418013840005443,77.0,0.0366214915723565
